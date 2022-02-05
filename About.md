@@ -1,6 +1,6 @@
 vhr 在发布后，受到了很多小伙伴的关注，因此我也陆陆续续写了很多介绍的文章和相关的视频，但是一直都比较零散，这里将 vhr 相关的视频和文章列一个索引出来，供大家参考。
 
-### 相关视频：
+### 相关视频：1
 
 1. [Spring Boot 整合 RabbitMQ，消息重复消费怎么办？](https://mp.weixin.qq.com/s/SMPyyZlRvvKM-kSMbOOQAw)
 2. [如何在微人事项目中提高RabbitMQ消息可靠性的？](https://mp.weixin.qq.com/s/aMu1qi46FbzIe0amJ4XJ7w)
